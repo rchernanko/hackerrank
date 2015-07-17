@@ -71,6 +71,24 @@ public class App {
 
 
 
+        /*
+
+        Could also perhaps use the below:
+
+        String name = "Richard";
+
+        char[] hello = name.toCharArray();
+        System.out.println(hello);
+
+        System.out.println(hello[0]);
+
+        System.out.println(hello[1]);
+
+
+         */
+
+
+
 
     }
 }
